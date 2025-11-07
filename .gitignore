@@ -177,3 +177,5 @@ _build/
 
 # Gemma model checkpoint files
 gemma/gemma-3-1b-pt-checkpoint/
+uv.lock
+pyproject.toml
